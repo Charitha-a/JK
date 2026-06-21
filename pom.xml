@@ -19,14 +19,14 @@
  <plugins>
   <plugin>
    <groupId>org.apache.maven.plugins</groupId>
-   <artifactId>apache-jar-plugin</artifactId>
-   <version>3.0.0</version>
+   <artifactId>maven-jar-plugin</artifactId>
+   <version>3.3.0</version>
    <configuration>
-    <archetype>
+    <archive>
      <manifest>
       <mainClass>com.example.App</mainClass>
      </manifest>
-    </archetype>
+    </archive>
    </configuration>
   </plugin>
  </plugins>

@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Charitha\AppData\Local\Temp\surefire14328790355360304860\surefirebooter-20260621162928648_3.jar C:\Users\Charitha\AppData\Local\Temp\surefire14328790355360304860 2026-06-21T16-29-28_439-jvmRun1 surefire-20260621162928648_1tmp surefire_0-20260621162928648_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Charitha\AppData\Local\Temp\surefire5597408936220442208\surefirebooter-20260621164018813_3.jar C:\Users\Charitha\AppData\Local\Temp\surefire5597408936220442208 2026-06-21T16-40-18_448-jvmRun1 surefire-20260621164018813_1tmp surefire_0-20260621164018813_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Charitha\devops\mvntogrl\myapp\target\test-classes;C:\Users\Charitha\devops\mvntogrl\myapp\target\classes;C:\Users\Charitha\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Charitha\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Charitha\AppData\Local\Temp\surefire14328790355360304860\surefirebooter-20260621162928648_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Charitha\AppData\Local\Temp\surefire5597408936220442208\surefirebooter-20260621164018813_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
@@ -56,7 +56,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.AppTest" time="0.011">
+  <testcase name="testApp" classname="com.example.AppTest" time="0.018">
     <system-out><![CDATA[The result of 2 and 3 should be:5
 ]]></system-out>
   </testcase>
