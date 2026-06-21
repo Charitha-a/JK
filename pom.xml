@@ -15,4 +15,21 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<build>
+ <plugins>
+  <plugin>
+   <groupId>org.apache.maven.plugins</groupId>
+   <artifactid>apache-jar-plugin</artifactId>
+   <version>3.0.0</version>
+   <configuration>
+    <archetype>
+     <manifest>
+      <mainClass>com.example.App</mainClass>
+     </manifest>
+    </archetype>
+   </configuration>
+  </plugin>
+ </plugins>
+</build>
+	
 </project>
